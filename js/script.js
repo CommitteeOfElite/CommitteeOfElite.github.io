@@ -18,5 +18,6 @@ gtag('config', 'UA-118364424-5');
 M.AutoInit();
 
 var instance = M.Carousel.init({
-    fullWidth: true
+    fullWidth: true,
+    indicators: true
 });
