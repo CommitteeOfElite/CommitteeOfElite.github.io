@@ -1,5 +1,5 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]
-# coe
+# Committee of Elite Official site and associated
 
 Our works are licensed under [Creative Commons Attribution 4.0 International
 License][cc-by].
